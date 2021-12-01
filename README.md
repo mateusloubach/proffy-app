@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-goulartb/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/mateusloubach/">
+      <img alt="Mateus Loubach" src="https://img.shields.io/badge/-mateusloubach-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
     <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <a href="https://github.com/RafaelGoulartB/proffy/commits/master">
+  <a href="https://github.com/mateusloubach/proffy-app/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RafaelGoulartB/proffy?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-  <a href="https://github.com/RafaelGoulartB/proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/RafaelGoulartB/proffy?color=8257E5&logo=github">
+  <a href="https://github.com/mateusloubach/proffy-app/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/mateusloubach/proffy-app?color=8257E5&logo=github">
   </a>
 </p>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
+    <a href="https://www.linkedin.com/in/mateusloubach/">Mateus Loubach</a> and
+    <a href="https://github.com/mateusloubach/proffy-app/graphs/contributors">
       contributors
     </a>
   </sub>
@@ -50,10 +50,10 @@
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
     <a title="Download .fig Web" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17c8198d-4e67-4838-b18b-440cd2fdf37e/Proffy_Web.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053236Z&X-Amz-Expires=86400&X-Amz-Signature=ba4ac9b73aca8c78671e5a872403d63b58e4ad69e3fd2d50b0ca57797173906d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Web.fig%22">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
+        <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-white?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
     <a title="Download .fig Mobile" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/736336db-c43b-4319-ab44-594da9fb6cd0/Proffy_Mobile.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053403Z&X-Amz-Expires=86400&X-Amz-Signature=01373fafe79f7e8ab5377c5f097e0268631e4a933cb1733dd8138e1bf66a8b09&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Mobile.fig%22">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
+        <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-white?style=flat-square&logo=figma&logoColor=red" width="215px"/>
     </a>
 </p>
 
@@ -73,9 +73,9 @@
 
 # :eyes: Demo Website
 You can acess the website at:     
-👉  demo: https://proffy-rafa.netlify.app/ 
+<!-- 👉  demo: https://proffy-rafa.netlify.app/  -->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://app.netlify.com/sites/proffy-rafa/deploys)      
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://app.netlify.com/sites/proffy-rafa/deploys)       -->
 
 
 # :computer: Technologies
@@ -94,13 +94,13 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/mateusloubach/proffy-app.git
 ```
 ### 📦 Run API
 
 ```bash
 # Go to server folder
-$ cd Proffy/server
+$ cd proffy-app/server
 
 # Install Dependencies
 $ yarn install
@@ -114,7 +114,7 @@ Access API at http://localhost:3333/
 
 ```bash
 # Go to web folder
-$ cd Proffy/web
+$ cd proffy-app/web
 
 # Install Dependencies
 $ yarn install
@@ -131,7 +131,7 @@ After, fork this repository and clone to your machine. Inside of the project's f
 
 ```bash
 # Go to mobile folder
-$ cd Proffy/mobile
+$ cd proffy-app/mobile
 
 # Install Dependencies
 $ yarn install
@@ -144,14 +144,14 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/RafaelGoulartB/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/mateusloubach/proffy-app/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 # :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
 
-* Check the [issues page](https://github.com/RafaelGoulartB/proffy/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Check the [issues page](https://github.com/mateusloubach/proffy-app/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
 * Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
@@ -160,8 +160,10 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2020 :closed_book: License
 
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
 This project is under the [MIT license](./LICENSE).
 
+<h4 align="center">
+    Feito com 💜 por <a href="https://www.linkedin.com/in/mateusloubach/" target="_blank">Mateus Loubach</a>
+</h4>
 
 Give a ⭐️ if this project helped you!
