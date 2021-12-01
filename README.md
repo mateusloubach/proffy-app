@@ -37,7 +37,7 @@
   </sub>
 </div>
 
-# :pushpin: Table of Contents
+## :pushpin: Table of Contents
 
 * [Demo Website](#eyes-demo-website)   
 * [Technologies](#computer-technologies)
@@ -71,14 +71,14 @@
    <img src="./.github/mobile-favoritos.png" width="180">
 </div>
 
-# :eyes: Demo Website
+## :eyes: Demo Website
 You can acess the website at:     
 <!-- 👉  demo: https://proffy-rafa.netlify.app/  -->
 
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://app.netlify.com/sites/proffy-rafa/deploys)       -->
 
 
-# :computer: Technologies
+## :computer: Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
@@ -86,7 +86,7 @@ This project was made using the follow technologies:
 * [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/)      
 
-# :rocket: Features
+## :rocket: Features
 
 * Website to sign up teachers and students.
 * App to connect teachers and students.
@@ -142,11 +142,11 @@ $ yarn start
 Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
 
 
-# :bug: Issues
+## :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/mateusloubach/proffy-app/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
-# :tada: Contributing
+## :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
@@ -156,7 +156,7 @@ Here's some tips:
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-# :closed_book: License
+## :closed_book: License
 
 Released in 2020 :closed_book: License
 
